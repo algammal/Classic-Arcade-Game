@@ -9,3 +9,9 @@ For detailed instructions on how to get started, check out this [guide](https://
 ###links
 ## git hub link
 This site was built using [GitHub Pages](https://github.com/algammal/Classic-Arcade-Game.git).
+
+### Instructions
+you can move charecter using arrows and avoid collapsing with enemy target moving side window 
+wo win the game you should pass the enemies and reach river
+hint:enemy speed changes and varies.
+
